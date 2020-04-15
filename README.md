@@ -1,5 +1,5 @@
 # Explain
-This is my archlinux installation script.The interactive script is at https://github.com/blackteahamburger/My-archlinux-installation-script-interactive .
+This is my archlinux installation script.
 
 This script only for specific users, please modify the script before use.
 
