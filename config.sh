@@ -1,3 +1,5 @@
+#!/bin/sh
+
 ln -sf /usr/share/zoneinfo/Region/City /etc/localtime
 hwclock --systohc
 nano /etc/locale.gen

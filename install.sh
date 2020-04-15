@@ -1,3 +1,5 @@
+#!/bin/sh
+
 wifi-menu
 timedatectl set-ntp true
 fdisk -l
