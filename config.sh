@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ln -sf /usr/share/zoneinfo/yourregion/yourcity /etc/localtime
 hwclock --systohc
 sed -i '/yourlocale/{s/#//}' /etc/locale.gen
