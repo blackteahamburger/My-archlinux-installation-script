@@ -10,8 +10,8 @@ done
 
 help(){
  echo "Options:"
- echo "-d Configure Arch Linux"
- echo "-i Display this help"
+ echo "-c Configure Arch Linux"
+ echo "-h Display this help"
 }
 
 configure(){

@@ -10,8 +10,8 @@ done
 
 help(){
  echo "Options:"
- echo "-d Installing Arch Linux"
- echo "-i Display this help"
+ echo "-i Installing Arch Linux"
+ echo "-h Display this help"
 }
 
 install(){
